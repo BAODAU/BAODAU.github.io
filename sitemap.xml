@@ -3,8 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://baodau.github.io/quote/wisdom-stuff-from-jacob-boi/</loc>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://baodau.github.io/article/im-tired-im-getting-burned-out/</loc>
     <lastmod>2018-01-18T16:43:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://baodau.github.io/tags/6n/</loc>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -26,7 +37,7 @@
   
   <url>
     <loc>https://baodau.github.io/</loc>
-    <lastmod>2018-01-18T16:43:56-05:00</lastmod>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +47,20 @@
   </url>
   
   <url>
+    <loc>https://baodau.github.io/author/jacob-wynkoop/</loc>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://baodau.github.io/categories/life/</loc>
     <lastmod>2018-01-18T16:43:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baodau.github.io/quote/</loc>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -49,7 +72,13 @@
   
   <url>
     <loc>https://baodau.github.io/tags/</loc>
-    <lastmod>2018-01-18T16:43:56-05:00</lastmod>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baodau.github.io/categories/woops/</loc>
+    <lastmod>2018-03-26T15:27:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
