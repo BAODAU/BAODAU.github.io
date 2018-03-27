@@ -8,13 +8,30 @@
   </url>
   
   <url>
+    <loc>https://baodau.github.io/article/nhin-lai-2017/</loc>
+    <lastmod>2018-01-02T17:59:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://baodau.github.io/tags/6n/</loc>
     <lastmod>2018-03-26T15:27:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://baodau.github.io/article/</loc>
+    <lastmod>2018-01-02T17:59:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://baodau.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://baodau.github.io/author/bao-dau/</loc>
+    <lastmod>2018-01-02T17:59:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
