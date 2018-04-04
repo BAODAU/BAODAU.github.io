@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.deeweebee.com/audio/cs-182-is-so-hard-my-dude/</loc>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.deeweebee.com/link/google-military-ai/</loc>
     <lastmod>2018-04-04T15:29:17-04:00</lastmod>
   </url>
@@ -51,19 +56,25 @@
   </url>
   
   <url>
+    <loc>https://blog.deeweebee.com/audio/</loc>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.deeweebee.com/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.deeweebee.com/author/bao-dau/</loc>
-    <lastmod>2018-04-02T17:56:26-04:00</lastmod>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.deeweebee.com/</loc>
-    <lastmod>2018-04-04T15:29:17-04:00</lastmod>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,6 +103,12 @@
   </url>
   
   <url>
+    <loc>https://blog.deeweebee.com/categories/hard/</loc>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.deeweebee.com/author/jacob-wynkoop/</loc>
     <lastmod>2018-03-26T15:27:20-04:00</lastmod>
     <priority>0</priority>
@@ -106,6 +123,12 @@
   <url>
     <loc>https://blog.deeweebee.com/author/nytimes/</loc>
     <lastmod>2018-04-04T15:29:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.deeweebee.com/tags/poem/</loc>
+    <lastmod>2018-04-04T17:24:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
