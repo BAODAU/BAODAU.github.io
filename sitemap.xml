@@ -86,12 +86,6 @@
   </url>
   
   <url>
-    <loc>https://blog.deeweebee.com/author/daisuke-wakabayashi/</loc>
-    <lastmod>2018-04-04T15:29:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.deeweebee.com/tags/google/</loc>
     <lastmod>2018-04-04T15:29:17-04:00</lastmod>
     <priority>0</priority>
@@ -105,6 +99,12 @@
   
   <url>
     <loc>https://blog.deeweebee.com/link/</loc>
+    <lastmod>2018-04-04T15:29:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.deeweebee.com/author/nytimes/</loc>
     <lastmod>2018-04-04T15:29:17-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -136,12 +136,6 @@
   <url>
     <loc>https://blog.deeweebee.com/categories/reflection/</loc>
     <lastmod>2018-01-02T17:59:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.deeweebee.com/author/scott-shane/</loc>
-    <lastmod>2018-04-04T15:29:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
