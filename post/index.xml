@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Bảo ❤️ Đậu️</title>
+    <link>https://blog.banhtrang.me/post/</link>
+    <description>Recent content in Posts on Bảo ❤️ Đậu️</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Jun 2019 18:22:52 -0400</lastBuildDate>
+    
+        <atom:link href="https://blog.banhtrang.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ah Here We Go Again</title>
+      <link>https://blog.banhtrang.me/post/ah-here-we-go-again/</link>
+      <pubDate>Wed, 12 Jun 2019 18:22:52 -0400</pubDate>
+      
+      <guid>https://blog.banhtrang.me/post/ah-here-we-go-again/</guid>
+      <description>Here we go trying to blog again</description>
+    </item>
+  </channel>
+</rss>
