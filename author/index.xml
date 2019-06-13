@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author - Bảo ❤️ Đậu️</title>
-    <link>https://blog.banhtrang.me/author/</link>
+    <link>http://blog.banhtrang.me/author/</link>
     <description>Recent content in Author on Bảo ❤️ Đậu️</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="https://blog.banhtrang.me/author/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://blog.banhtrang.me/author/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
