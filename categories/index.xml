@@ -1,12 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - Bao&#39;s essays</title>
+    <title>Categories on Bao&#39;s essays</title>
     <link>https://blog.banhtrang.me/categories/</link>
     <description>Recent content in Categories on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 03 Jul 2019 16:30:41 -0400</lastBuildDate>
     
-        <atom:link href="https://blog.banhtrang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.banhtrang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>personal</title>
@@ -15,7 +17,9 @@
       
       <guid>https://blog.banhtrang.me/categories/personal/</guid>
       <description></description>
-    </item><item>
+    </item>
+    
+    <item>
       <title>books</title>
       <link>https://blog.banhtrang.me/categories/books/</link>
       <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
@@ -23,5 +27,6 @@
       <guid>https://blog.banhtrang.me/categories/books/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

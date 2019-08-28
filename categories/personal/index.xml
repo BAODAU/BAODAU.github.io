@@ -1,12 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>personal - Bao&#39;s essays</title>
+    <title>personal on Bao&#39;s essays</title>
     <link>https://blog.banhtrang.me/categories/personal/</link>
     <description>Recent content in personal on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 03 Jul 2019 16:30:41 -0400</lastBuildDate>
     
-        <atom:link href="https://blog.banhtrang.me/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.banhtrang.me/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What I feel</title>
@@ -14,14 +16,20 @@
       <pubDate>Wed, 03 Jul 2019 16:30:41 -0400</pubDate>
       
       <guid>https://blog.banhtrang.me/post/cycle/</guid>
-      <description>It&#39;s funny, I know that what ever I think of right now. Somebody smarter had thought of this before and had written about it. They had probably come to a better conclusion. </description>
-    </item><item>
+      <description>It&amp;rsquo;s meta, but I feel like no matter I do, I won&amp;rsquo;t be able to feel like how I want to feel.
+Not that I have achieved a lot and feel empty afterwards. Full disclaimer, I have not achieved a single thing that I wanted to do this year. It&amp;rsquo;s sad and pathetic but it&amp;rsquo;s also enlightening, I guess.
+It&amp;rsquo;s enlightening in a way that most people I&amp;rsquo;ve met feel this way.</description>
+    </item>
+    
+    <item>
       <title>on Lee Kuan Yew</title>
       <link>https://blog.banhtrang.me/post/funny-thing/</link>
       <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
       
       <guid>https://blog.banhtrang.me/post/funny-thing/</guid>
-      <description>what I think of his controversies</description>
+      <description>I found myself thinking about what Lee Kuan Yew had to say about many things a lot recently. While I know close to nothing about him, I can imagine that most of his thoughts and actions stemmed from a systemic and practical approach.
+I remember reading him stating that while he takes a certain liking to some ideas, he is only interested in what works in real life. This Machiavellian approach to problems reminds me of one of Charlie Munger&amp;rsquo;s lessons in life: avoid extremely intense ideology.</description>
     </item>
+    
   </channel>
 </rss>
