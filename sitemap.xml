@@ -5,24 +5,21 @@
   <url>
     <loc>https://blog.banhtrang.me/categories/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/cycle/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.banhtrang.me/categories/personal/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/cycle/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +30,6 @@
   <url>
     <loc>https://blog.banhtrang.me/categories/books/</loc>
     <lastmod>2019-06-13T11:45:54-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,12 +44,10 @@
   
   <url>
     <loc>https://blog.banhtrang.me/author/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.banhtrang.me/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
