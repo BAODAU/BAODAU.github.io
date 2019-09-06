@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.banhtrang.me/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/categories/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/categories/personal/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/cycle/</loc>
+    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/categories/books/</loc>
+    <lastmod>2019-06-13T11:45:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/funny-thing/</loc>
+    <lastmod>2019-06-13T11:45:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/post/ah-here-we-go-again/</loc>
+    <lastmod>2019-06-12T18:22:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/tags/"
+                />
+  </url>
+  
+</urlset>

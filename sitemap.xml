@@ -1,53 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://blog.banhtrang.me/categories/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/categories/personal/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/cycle/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/categories/books/</loc>
-    <lastmod>2019-06-13T11:45:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/funny-thing/</loc>
-    <lastmod>2019-06-13T11:45:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/ah-here-we-go-again/</loc>
-    <lastmod>2019-06-12T18:22:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/author/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://blog.banhtrang.me/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-07-03T16:30:41-04:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://blog.banhtrang.me/vi/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
