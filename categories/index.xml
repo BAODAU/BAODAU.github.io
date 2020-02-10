@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bao&#39;s essays</title>
-    <link>http://blog.notez.tech/categories/</link>
+    <link>https://blog.notez.tech/categories/</link>
     <description>Recent content in Categories on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Nov 2019 13:26:22 -0500</lastBuildDate>
     
-	<atom:link href="http://blog.notez.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.notez.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>politics</title>
-      <link>http://blog.notez.tech/categories/politics/</link>
+      <title>readings</title>
+      <link>https://blog.notez.tech/categories/readings/</link>
       <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
       
-      <guid>http://blog.notez.tech/categories/politics/</guid>
+      <guid>https://blog.notez.tech/categories/readings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>http://blog.notez.tech/categories/personal/</link>
+      <link>https://blog.notez.tech/categories/personal/</link>
       <pubDate>Wed, 03 Jul 2019 16:30:41 -0400</pubDate>
       
-      <guid>http://blog.notez.tech/categories/personal/</guid>
+      <guid>https://blog.notez.tech/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>books</title>
-      <link>http://blog.notez.tech/categories/books/</link>
+      <link>https://blog.notez.tech/categories/books/</link>
       <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
       
-      <guid>http://blog.notez.tech/categories/books/</guid>
+      <guid>https://blog.notez.tech/categories/books/</guid>
       <description></description>
     </item>
     

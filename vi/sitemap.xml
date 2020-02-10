@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.notez.tech/vi/author/</loc>
+    <loc>https://blog.notez.tech/vi/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.notez.tech/author/"
+                href="https://blog.notez.tech/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://blog.notez.tech/vi/author/"
+                href="https://blog.notez.tech/vi/author/"
                 />
   </url>
   
   <url>
-    <loc>http://blog.notez.tech/vi/</loc>
+    <loc>https://blog.notez.tech/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.notez.tech/"
+                href="https://blog.notez.tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://blog.notez.tech/vi/"
+                href="https://blog.notez.tech/vi/"
                 />
   </url>
   
   <url>
-    <loc>http://blog.notez.tech/vi/categories/</loc>
+    <loc>https://blog.notez.tech/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.notez.tech/categories/"
+                href="https://blog.notez.tech/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://blog.notez.tech/vi/categories/"
+                href="https://blog.notez.tech/vi/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://blog.notez.tech/vi/tags/</loc>
+    <loc>https://blog.notez.tech/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.notez.tech/tags/"
+                href="https://blog.notez.tech/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://blog.notez.tech/vi/tags/"
+                href="https://blog.notez.tech/vi/tags/"
                 />
   </url>
   
