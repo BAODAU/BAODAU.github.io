@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Bao&#39;s essays</title>
-    <link>https://blog.notez.tech/categories/books/</link>
-    <description>Recent content in books on Bao&#39;s essays</description>
+    <title>Notes on Bao&#39;s essays</title>
+    <link>https://blog.notez.tech/note/</link>
+    <description>Recent content in Notes on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 11 Feb 2020 11:08:54 -0500</lastBuildDate>
     
-	<atom:link href="https://blog.notez.tech/categories/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.notez.tech/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,13 +23,12 @@ Models and Patterns Include linear equations, rules, clusters, graphs, tree stru
     </item>
     
     <item>
-      <title>on Lee Kuan Yew</title>
-      <link>https://blog.notez.tech/post/funny-thing/</link>
-      <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
+      <title>Class War</title>
+      <link>https://blog.notez.tech/note/class-war/</link>
+      <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
       
-      <guid>https://blog.notez.tech/post/funny-thing/</guid>
-      <description>I found myself thinking about what Lee Kuan Yew had to say about many things a lot recently. While I know close to nothing about him, I can imagine that most of his thoughts and actions stemmed from a systemic and practical approach.
-I remember reading him stating that while he takes a certain liking to some ideas, he is only interested in what works in real life. This Machiavellian approach to problems reminds me of one of Charlie Munger&amp;rsquo;s lessons in life: avoid extremely intense ideology.</description>
+      <guid>https://blog.notez.tech/note/class-war/</guid>
+      <description>Big Law Finance hedge funds Silicon Valley Other professionals The rising cost of elite membership Facts upper middle class american radicals self perpetuation of conservative mediocrity The alienation of elite labor  Excerpts from American Affairs&amp;rsquo; The Real Class War. Note that this post is literally me taking notes (more like copying verbatim) of what the author wrote and I have absolutely no rights to the material provided. Don&amp;rsquo;t @ me.</description>
     </item>
     
   </channel>

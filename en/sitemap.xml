@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.notez.tech/author/</loc>
-    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://blog.notez.tech/author/bao-dau/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.notez.tech/</loc>
-    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -33,8 +38,13 @@
   </url>
   
   <url>
+    <loc>https://blog.notez.tech/categories/books/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.notez.tech/categories/</loc>
-    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -48,17 +58,27 @@
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/quote/class-war/</loc>
+    <loc>https://blog.notez.tech/note/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/note/principles-of-data-mining/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/categories/summary/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/note/class-war/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.notez.tech/author/julius-krein/</loc>
-    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.notez.tech/quote/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
@@ -80,11 +100,6 @@
   <url>
     <loc>https://blog.notez.tech/post/cycle/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.notez.tech/categories/books/</loc>
-    <lastmod>2019-06-13T11:45:54-04:00</lastmod>
   </url>
   
   <url>

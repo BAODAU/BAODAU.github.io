@@ -46,6 +46,35 @@ Not that I have achieved a lot and feel empty …'>
       <div class = 'nav_bar'></div>
     </div>
   </nav>
+  <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+
 </header>
 
 
@@ -58,7 +87,9 @@ Not that I have achieved a lot and feel empty …'>
         <div class = 'post_inner'>
         
           <img src = 'https://blog.notez.tech/images/flood.jpg' alt = 'flood.jpg' class = 'post_thumbnail'>
-        
+          
+	  
+
           <p>It&rsquo;s meta, but I feel like no matter I do, I won&rsquo;t be able to feel like how I want to feel.</p>
 
 <p>Not that I have achieved a lot and feel empty afterwards. Full disclaimer, I have not achieved a single thing that I wanted to do this year. It&rsquo;s sad and pathetic but it&rsquo;s also enlightening, I guess.</p>

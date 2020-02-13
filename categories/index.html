@@ -45,6 +45,35 @@
       <div class = 'nav_bar'></div>
     </div>
   </nav>
+  <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+
 </header>
 
 
@@ -53,9 +82,10 @@
   <div class = 'archive wrap_min mt'>
   <h1>Categories</h1>
   
-  <a class = 'archive_item' href = 'https://blog.notez.tech/categories/books/'><time class = 'pale'>13. June 2019</time><h3 class = 'article_title'>books</h3></a>
   <a class = 'archive_item' href = 'https://blog.notez.tech/categories/personal/'><time class = 'pale'>03. July 2019</time><h3 class = 'article_title'>personal</h3></a>
-  <a class = 'archive_item' href = 'https://blog.notez.tech/categories/readings/'><time class = 'pale'>26. November 2019</time><h3 class = 'article_title'>readings</h3></a></div>
+  <a class = 'archive_item' href = 'https://blog.notez.tech/categories/readings/'><time class = 'pale'>26. November 2019</time><h3 class = 'article_title'>readings</h3></a>
+  <a class = 'archive_item' href = 'https://blog.notez.tech/categories/summary/'><time class = 'pale'>11. February 2020</time><h3 class = 'article_title'>summary</h3></a>
+  <a class = 'archive_item' href = 'https://blog.notez.tech/categories/books/'><time class = 'pale'>11. February 2020</time><h3 class = 'article_title'>books</h3></a></div>
 
 
 
