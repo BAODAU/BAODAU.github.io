@@ -88,6 +88,26 @@
   </url>
   
   <url>
+    <loc>https://blog.notez.tech/tags/</loc>
+    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.notez.tech/vi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.notez.tech/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/tags/tldr/</loc>
+    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.notez.tech/categories/personal/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
@@ -110,20 +130,6 @@
   <url>
     <loc>https://blog.notez.tech/post/ah-here-we-go-again/</loc>
     <lastmod>2019-06-12T18:22:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.notez.tech/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.notez.tech/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.notez.tech/tags/"
-                />
   </url>
   
 </urlset>

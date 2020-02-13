@@ -5,9 +5,19 @@
     <link>https://blog.notez.tech/tags/</link>
     <description>Recent content in Tags on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Nov 2019 13:26:22 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.notez.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tldr</title>
+      <link>https://blog.notez.tech/tags/tldr/</link>
+      <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
+      
+      <guid>https://blog.notez.tech/tags/tldr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
