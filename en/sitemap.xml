@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.notez.tech/author/</loc>
-    <lastmod>2020-11-22T23:54:22-05:00</lastmod>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>https://blog.notez.tech/author/bao-dau/</loc>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.notez.tech/</loc>
-    <lastmod>2020-11-22T23:54:22-05:00</lastmod>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -34,6 +39,46 @@
   
   <url>
     <loc>https://blog.notez.tech/lifestyle/</loc>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/lifestyle/tidy/</loc>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/categories/book/</loc>
+    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/categories/</loc>
+    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.notez.tech/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.notez.tech/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/relationship/relationship-cure/</loc>
+    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/relationship/</loc>
+    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.notez.tech/author/bao/</loc>
     <lastmod>2020-11-22T23:54:22-05:00</lastmod>
   </url>
   
@@ -48,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/daily/</loc>
+    <loc>https://blog.notez.tech/daily/nov21/</loc>
     <lastmod>2020-11-21T15:21:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/daily/nov21/</loc>
+    <loc>https://blog.notez.tech/daily/</loc>
     <lastmod>2020-11-21T15:21:25-05:00</lastmod>
   </url>
   
@@ -73,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/author/max-dau/</loc>
-    <lastmod>2020-11-19T14:20:27-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.notez.tech/dl/l1/</loc>
     <lastmod>2020-11-18T19:16:19-05:00</lastmod>
   </url>
@@ -93,28 +133,8 @@
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/author/bao-dau/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.notez.tech/categories/books/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.notez.tech/categories/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.notez.tech/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.notez.tech/categories/"
-                />
   </url>
   
   <url>
