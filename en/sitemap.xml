@@ -58,36 +58,6 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/categories/book/</loc>
-    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/categories/</loc>
-    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.banhtrang.me/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.banhtrang.me/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/relationship/relationship-cure/</loc>
-    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/relationship/</loc>
-    <lastmod>2020-11-23T10:13:27-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/author/bao/</loc>
     <lastmod>2020-11-22T23:54:22-05:00</lastmod>
   </url>
@@ -145,6 +115,21 @@
   <url>
     <loc>https://blog.banhtrang.me/categories/books/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/categories/</loc>
+    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/categories/"
+                />
   </url>
   
   <url>

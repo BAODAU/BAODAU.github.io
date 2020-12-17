@@ -81,9 +81,21 @@
       
 <div class = 'wrap_min mt post'>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
-    <div><p class = 'post_date pale'>22. November 2020</p>
+  <script src="assets/js/tocbot.min.js"></script>
+  
+<script type="text/javascript">
+  tocbot.init({
+      
+      tocSelector: '.js-toc',
+      
+      contentSelector: '.js-toc-content',
+      
+      headingSelector: 'h1, h2, h3'
+  });
+  </script>
+  <div><p class = 'post_date pale'>22. November 2020</p>
       <h1 class = 'post_title'>Minigoal</h1>
+      <div class="js-toc"></div>
       <div class = 'post_body'>
         <div class = 'post_inner js-toc-content '>
         	  
@@ -151,23 +163,14 @@
 <li><a href="https://www.reddit.com/r/financialindependence/wiki/books">https://www.reddit.com/r/financialindependence/wiki/books</a></li>
 </ul>
 
-	  <script>
         </div>
         <div class ='post_extra'>
-          \x3cdiv class = \x27copy\x27\x3e\x3c\/div\x3e\n
+          <div class = 'copy'></div>
+
         </div>
       </div>
     </div>
-    <div id="commento"></div>
-    <script
-	    src="https://comment.banhtrang.me/js/commento.js"
-    </script>
 </div>
-<form action="https://flowxo.com/hooks/a/3w4b25eb">
-  <input name="mailinglist" value=blog@notez.tech style="display: hidden;">
-  <input name="email" type="email" placeholder="email">
-  <input type="submit">
-</form>
   <a href = 'https://blog.banhtrang.me' class = 'post_nav'><span class = 'post_next'>The Latest</span>T</a>
   
     </main>
