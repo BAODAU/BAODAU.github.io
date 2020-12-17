@@ -3,227 +3,237 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.notez.tech/author/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/author/</loc>
+    <lastmod>2020-12-05T15:00:24-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/author/"
+                href="https://blog.banhtrang.me/vi/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/author/"
+                href="https://blog.banhtrang.me/author/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/author/bao-dau/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.notez.tech/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/</loc>
+    <lastmod>2020-12-05T15:00:24-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/"
+                href="https://blog.banhtrang.me/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/"
+                href="https://blog.banhtrang.me/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/lifestyle/</loc>
+    <loc>https://blog.banhtrang.me/learn/</loc>
+    <lastmod>2020-12-05T15:00:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/learn/organized-mind/</loc>
+    <lastmod>2020-12-05T15:00:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/author/bao-dau/</loc>
     <lastmod>2020-11-23T23:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/lifestyle/tidy/</loc>
+    <loc>https://blog.banhtrang.me/lifestyle/</loc>
     <lastmod>2020-11-23T23:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/book/</loc>
+    <loc>https://blog.banhtrang.me/lifestyle/tidy/</loc>
+    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/categories/book/</loc>
     <lastmod>2020-11-23T10:13:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/</loc>
+    <loc>https://blog.banhtrang.me/categories/</loc>
     <lastmod>2020-11-23T10:13:27-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/categories/"
+                href="https://blog.banhtrang.me/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/categories/"
+                href="https://blog.banhtrang.me/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/relationship/relationship-cure/</loc>
+    <loc>https://blog.banhtrang.me/relationship/relationship-cure/</loc>
     <lastmod>2020-11-23T10:13:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/relationship/</loc>
+    <loc>https://blog.banhtrang.me/relationship/</loc>
     <lastmod>2020-11-23T10:13:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/author/bao/</loc>
+    <loc>https://blog.banhtrang.me/author/bao/</loc>
     <lastmod>2020-11-22T23:54:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/lifestyle/lift/</loc>
+    <loc>https://blog.banhtrang.me/lifestyle/lift/</loc>
     <lastmod>2020-11-22T23:54:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/lifestyle/goalpost/</loc>
+    <loc>https://blog.banhtrang.me/lifestyle/goalpost/</loc>
     <lastmod>2020-11-22T16:31:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/daily/nov21/</loc>
+    <loc>https://blog.banhtrang.me/daily/nov21/</loc>
     <lastmod>2020-11-21T15:21:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/daily/</loc>
+    <loc>https://blog.banhtrang.me/daily/</loc>
     <lastmod>2020-11-21T15:21:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/muscle/</loc>
+    <loc>https://blog.banhtrang.me/muscle/</loc>
     <lastmod>2020-11-21T13:08:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/dl/</loc>
+    <loc>https://blog.banhtrang.me/dl/</loc>
     <lastmod>2020-11-19T14:20:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/dl/l2/</loc>
+    <loc>https://blog.banhtrang.me/dl/l2/</loc>
     <lastmod>2020-11-19T14:20:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/dl/l1/</loc>
+    <loc>https://blog.banhtrang.me/dl/l1/</loc>
     <lastmod>2020-11-18T19:16:19-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/defining-decade/</loc>
+    <loc>https://blog.banhtrang.me/defining-decade/</loc>
     <lastmod>2020-11-18T14:45:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/principles/</loc>
+    <loc>https://blog.banhtrang.me/principles/</loc>
     <lastmod>2020-11-16T16:40:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/books/</loc>
+    <loc>https://blog.banhtrang.me/categories/books/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/note/</loc>
+    <loc>https://blog.banhtrang.me/note/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/note/principles-of-data-mining/</loc>
+    <loc>https://blog.banhtrang.me/note/principles-of-data-mining/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/summary/</loc>
+    <loc>https://blog.banhtrang.me/categories/summary/</loc>
     <lastmod>2020-02-11T11:08:54-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/note/class-war/</loc>
+    <loc>https://blog.banhtrang.me/note/class-war/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/author/julius-krein/</loc>
+    <loc>https://blog.banhtrang.me/author/julius-krein/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/readings/</loc>
+    <loc>https://blog.banhtrang.me/categories/readings/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/tags/</loc>
+    <loc>https://blog.banhtrang.me/tags/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/tags/"
+                href="https://blog.banhtrang.me/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/tags/"
+                href="https://blog.banhtrang.me/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/tags/tldr/</loc>
+    <loc>https://blog.banhtrang.me/tags/tldr/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/categories/personal/</loc>
+    <loc>https://blog.banhtrang.me/categories/personal/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/post/</loc>
+    <loc>https://blog.banhtrang.me/post/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/post/cycle/</loc>
+    <loc>https://blog.banhtrang.me/post/cycle/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/post/funny-thing/</loc>
+    <loc>https://blog.banhtrang.me/post/funny-thing/</loc>
     <lastmod>2019-06-13T11:45:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/post/ah-here-we-go-again/</loc>
+    <loc>https://blog.banhtrang.me/post/ah-here-we-go-again/</loc>
     <lastmod>2019-06-12T18:22:52-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/dl/l3/</loc>
+    <loc>https://blog.banhtrang.me/dl/l3/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/post/overconfidence/</loc>
+    <loc>https://blog.banhtrang.me/post/overconfidence/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/problems/</loc>
+    <loc>https://blog.banhtrang.me/problems/</loc>
     <priority>0</priority>
   </url>
   

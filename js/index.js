@@ -172,7 +172,7 @@ headingNodes.forEach(function(node){
   link = createEl('a');
   icon = createEl('img');
   icon.className = 'icon';
-  icon.src = 'https://blog.notez.tech/images/icons/link.svg';
+  icon.src = 'https://blog.banhtrang.me/images/icons/link.svg';
   link.className = 'link';
   link.appendChild(icon);
   id = node.getAttribute('id');

@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.notez.tech/vi/author/</loc>
+    <loc>https://blog.banhtrang.me/vi/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/author/"
+                href="https://blog.banhtrang.me/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/author/"
+                href="https://blog.banhtrang.me/vi/author/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/vi/</loc>
+    <loc>https://blog.banhtrang.me/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/"
+                href="https://blog.banhtrang.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/"
+                href="https://blog.banhtrang.me/vi/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/vi/categories/</loc>
+    <loc>https://blog.banhtrang.me/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/categories/"
+                href="https://blog.banhtrang.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/categories/"
+                href="https://blog.banhtrang.me/vi/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://blog.notez.tech/vi/tags/</loc>
+    <loc>https://blog.banhtrang.me/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.notez.tech/tags/"
+                href="https://blog.banhtrang.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://blog.notez.tech/vi/tags/"
+                href="https://blog.banhtrang.me/vi/tags/"
                 />
   </url>
   

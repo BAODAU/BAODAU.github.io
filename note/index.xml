@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Bao&#39;s essays</title>
-    <link>https://blog.notez.tech/note/</link>
+    <link>https://blog.banhtrang.me/note/</link>
     <description>Recent content in Notes on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 11 Feb 2020 11:08:54 -0500</lastBuildDate>
     
-	<atom:link href="https://blog.notez.tech/note/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.banhtrang.me/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Principles of Data Mining</title>
-      <link>https://blog.notez.tech/note/principles-of-data-mining/</link>
+      <link>https://blog.banhtrang.me/note/principles-of-data-mining/</link>
       <pubDate>Tue, 11 Feb 2020 11:08:54 -0500</pubDate>
       
-      <guid>https://blog.notez.tech/note/principles-of-data-mining/</guid>
+      <guid>https://blog.banhtrang.me/note/principles-of-data-mining/</guid>
       <description>Chapter 1 Introduction is an interdisciplinary exercise, can be thought of as statistics, database, or machine learning problem.
 from observational datasets to find unsuspected relations and to summarize the data in novel ways
 deals with data that have already been collected for some purpose other than the data mining analysis. This is different from statistics, which data are often colleted by using efficient strategies to answer specific answers.
@@ -24,10 +24,10 @@ Models and Patterns Include linear equations, rules, clusters, graphs, tree stru
     
     <item>
       <title>Class War</title>
-      <link>https://blog.notez.tech/note/class-war/</link>
+      <link>https://blog.banhtrang.me/note/class-war/</link>
       <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
       
-      <guid>https://blog.notez.tech/note/class-war/</guid>
+      <guid>https://blog.banhtrang.me/note/class-war/</guid>
       <description>Excerpts from American Affairs&amp;rsquo; The Real Class War. Note that this post is literally me taking notes (more like copying verbatim) of what the author wrote and I have absolutely no rights to the material provided. Don&amp;rsquo;t @ me.
  The working class has experienced economic stagnation and precarity, and even life expectancy in the US, as well as ower family stability and civic engagement. Social mobility has declined, while inequality has widened.</description>
     </item>

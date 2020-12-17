@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dailies on Bao&#39;s essays</title>
-    <link>https://blog.notez.tech/daily/</link>
+    <link>https://blog.banhtrang.me/daily/</link>
     <description>Recent content in Dailies on Bao&#39;s essays</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 21 Nov 2020 15:21:25 -0500</lastBuildDate>
     
-	<atom:link href="https://blog.notez.tech/daily/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.banhtrang.me/daily/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://blog.notez.tech/daily/nov21/</link>
+      <link>https://blog.banhtrang.me/daily/nov21/</link>
       <pubDate>Sat, 21 Nov 2020 15:21:25 -0500</pubDate>
       
-      <guid>https://blog.notez.tech/daily/nov21/</guid>
+      <guid>https://blog.banhtrang.me/daily/nov21/</guid>
       <description>Lift with the new system Setup fastai core Buy cheese tofu   </description>
     </item>
     

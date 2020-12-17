@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learns on Bao&#39;s essays</title>
+    <link>https://blog.banhtrang.me/learn/</link>
+    <description>Recent content in Learns on Bao&#39;s essays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Dec 2020 15:00:24 -0500</lastBuildDate>
+    
+	<atom:link href="https://blog.banhtrang.me/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organized Mind</title>
+      <link>https://blog.banhtrang.me/learn/organized-mind/</link>
+      <pubDate>Sat, 05 Dec 2020 15:00:24 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/learn/organized-mind/</guid>
+      <description>our brains are evolved to focus on one thing at a time attention is a limited-capacity resource. something can grab your attention automatically, usually something salient to your survival, with evolutionary origins.
+ if we have a filter for
+ attention overload as a serious problem
+ we&amp;rsquo;re expected to do shadow work - the work of the companies for them.
+  # - have you ever sat in an airplan or train, just staring out the window with nothing to read, looking at nothing in particular?</description>
+    </item>
+    
+  </channel>
+</rss>
