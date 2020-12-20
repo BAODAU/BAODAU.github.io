@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Bao&#39;s essays</title>
+    <title>books on baoqdau</title>
     <link>https://blog.banhtrang.me/categories/books/</link>
-    <description>Recent content in books on Bao&#39;s essays</description>
+    <description>Recent content in books on baoqdau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Feb 2020 11:08:54 -0500</lastBuildDate>
-    
-	<atom:link href="https://blog.banhtrang.me/categories/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Feb 2020 11:08:54 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Principles of Data Mining</title>
-      <link>https://blog.banhtrang.me/note/principles-of-data-mining/</link>
+      <link>https://blog.banhtrang.me/en/note/principles-of-data-mining/</link>
       <pubDate>Tue, 11 Feb 2020 11:08:54 -0500</pubDate>
       
-      <guid>https://blog.banhtrang.me/note/principles-of-data-mining/</guid>
+      <guid>https://blog.banhtrang.me/en/note/principles-of-data-mining/</guid>
       <description>Chapter 1 Introduction is an interdisciplinary exercise, can be thought of as statistics, database, or machine learning problem.
 from observational datasets to find unsuspected relations and to summarize the data in novel ways
 deals with data that have already been collected for some purpose other than the data mining analysis. This is different from statistics, which data are often colleted by using efficient strategies to answer specific answers.
@@ -24,10 +20,10 @@ Models and Patterns Include linear equations, rules, clusters, graphs, tree stru
     
     <item>
       <title>on Lee Kuan Yew</title>
-      <link>https://blog.banhtrang.me/post/funny-thing/</link>
+      <link>https://blog.banhtrang.me/en/post/funny-thing/</link>
       <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
       
-      <guid>https://blog.banhtrang.me/post/funny-thing/</guid>
+      <guid>https://blog.banhtrang.me/en/post/funny-thing/</guid>
       <description>I found myself thinking about what Lee Kuan Yew had to say about many things a lot recently. While I know close to nothing about him, I can imagine that most of his thoughts and actions stemmed from a systemic and practical approach.
 I remember reading him stating that while he takes a certain liking to some ideas, he is only interested in what works in real life. This Machiavellian approach to problems reminds me of one of Charlie Munger&amp;rsquo;s lessons in life: avoid extremely intense ideology.</description>
     </item>

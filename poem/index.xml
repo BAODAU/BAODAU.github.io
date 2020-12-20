@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poems on BaoQDau</title>
+    <link>https://blog.banhtrang.me/poem/</link>
+    <description>Recent content in Poems on BaoQDau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Dec 2020 16:52:44 -0500</lastBuildDate>
+    
+	<atom:link href="https://blog.banhtrang.me/poem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rilke</title>
+      <link>https://blog.banhtrang.me/poem/rilke/</link>
+      <pubDate>Sat, 19 Dec 2020 16:52:44 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/poem/rilke/</guid>
+      <description>I am to alone in the world, and not alone enough to make every moment holy I am too tiny in this world, and not tiny enough just to lie before you like a thing, shrewd and secretive I want my own will, and I want simply to be with my will, as it goes toward action, and in the silent, sometimes hardly moving times when something is coming near</description>
+    </item>
+    
+  </channel>
+</rss>

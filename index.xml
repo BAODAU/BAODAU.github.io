@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baoqdau</title>
+    <link>https://blog.banhtrang.me/</link>
+    <description>Recent content on baoqdau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Dec 2020 16:52:44 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rilke</title>
+      <link>https://blog.banhtrang.me/en/poem/rilke/</link>
+      <pubDate>Sat, 19 Dec 2020 16:52:44 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/poem/rilke/</guid>
+      <description>I am to alone in the world, and not alone enough to make every moment holy I am too tiny in this world, and not tiny enough just to lie before you like a thing, shrewd and secretive I want my own will, and I want simply to be with my will, as it goes toward action, and in the silent, sometimes hardly moving times when something is coming near</description>
+    </item>
+    
+    <item>
+      <title>Organized Mind</title>
+      <link>https://blog.banhtrang.me/en/learn/organized-mind/</link>
+      <pubDate>Sat, 05 Dec 2020 15:00:24 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/learn/organized-mind/</guid>
+      <description>our brains are evolved to focus on one thing at a time
+  attention is a limited-capacity resource. something can grab your attention automatically, usually something salient to your survival, with evolutionary origins.
+  if we have a filter for
+  attention overload as a serious problem
+  we&amp;rsquo;re expected to do shadow work - the work of the companies for them.
+     have you ever sat in an airplan or train, just staring out the window with nothing to read, looking at nothing in particular?</description>
+    </item>
+    
+    <item>
+      <title>Tidy</title>
+      <link>https://blog.banhtrang.me/en/lifestyle/tidy/</link>
+      <pubDate>Mon, 23 Nov 2020 23:18:53 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/lifestyle/tidy/</guid>
+      <description>discarding all at once intensely and completely tidy in the right order  do not even think of putting things away until i have finished the process of discarding  visualize my destination  imagine what it would be like to live in a clutter free space visualization aid: look at interior decorating magazines  the fuck this is pseudodeep  why i want to design my home that way. after a few rounds of recursive quasi-scientific soul searching im supposed to find out that the point of doing this is to be happy  selection criterion: joy  we should be choosing what we want to keep, not what we want to get rid of take each item in one&amp;rsquo;s hand and ask if this spark joy.</description>
+    </item>
+    
+    <item>
+      <title>Lift</title>
+      <link>https://blog.banhtrang.me/en/lifestyle/lift/</link>
+      <pubDate>Sun, 22 Nov 2020 23:54:22 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/lifestyle/lift/</guid>
+      <description>best 3 chest exercises: bench press incline dumbbell, remember to bring the dumbbells together
+cardio  jumping jacks burpees bicycles ins outs open close shoulder to shoulder high knees  shoulder  reverse peck deck: side lateral raises seated overhead press  10 reps min
+leg  smith machines: normal + chair squat + backward squat preacher shrimp dance step on one plate, weights on shoulder, squat down then stand up in the opposite direction smith machine calf raises, with plates 15 lunge while criss crossing kettlebells smith machine jumping lunge push smith machine with balls on your feet one legged squat jump over bench criss crossing on bench   </description>
+    </item>
+    
+    <item>
+      <title>Minigoal</title>
+      <link>https://blog.banhtrang.me/en/lifestyle/goalpost/</link>
+      <pubDate>Sun, 22 Nov 2020 16:31:20 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/lifestyle/goalpost/</guid>
+      <description>Most important: track how I spend my time digitally fix arbtt and see where I am on the productivity scale brother Completely stop using Tiktok yikes
+stop playing mobile games now the question is. what am i going to do next. question  when do i play games? only when i get home. why? is it because my house has a relaxational aspect to it? now how do I stop compulsively gaming?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.banhtrang.me/en/daily/nov21/</link>
+      <pubDate>Sat, 21 Nov 2020 15:21:25 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/daily/nov21/</guid>
+      <description> Lift with the new system Setup fastai core Buy cheese tofu   </description>
+    </item>
+    
+    <item>
+      <title>Muscle</title>
+      <link>https://blog.banhtrang.me/en/muscle/</link>
+      <pubDate>Sat, 21 Nov 2020 13:08:13 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/muscle/</guid>
+      <description>i can build muscle in a calorie deficit
+build muscle:  water protein: 1g of protein per pound of weight energy: 3500 cal/lb of fat training stimulus:  training tips  warm up with light cardio. should be sweating a little bit before starting.  train the hardest exercises first  squats compounds first then isolation  time your set  time under tension is more important:40 seconds for hypertrophy   work rest ratio  3:1 or 5:1.</description>
+    </item>
+    
+    <item>
+      <title>Lesson 2</title>
+      <link>https://blog.banhtrang.me/en/dl/l2/</link>
+      <pubDate>Thu, 19 Nov 2020 14:20:27 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/dl/l2/</guid>
+      <description>2 sets of books. fastbooks to learn. the other for experiment
+dog cat dataset  tags contain dog and cat breeds create category: classification regression: predict one or more numeric quantities?  different applications  diagnosing viruses  terminology  mostly in the book  valid_pct: take a portion of the training dataset and put it asidefor testing purpose
+  avoid overfitting
+  cnn_learner(,(resnet34: resnet architecture, 34 layers, good for image recognition), metrics=error_rate, epoch: what we call when we look at every single image once?</description>
+    </item>
+    
+    <item>
+      <title>Lesson 1</title>
+      <link>https://blog.banhtrang.me/en/dl/l1/</link>
+      <pubDate>Wed, 18 Nov 2020 19:16:19 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/dl/l1/</guid>
+      <description>didactic approach deep learning is a type of neural network.
+top down approach: see the big picture first. will get more technical at time goes by.
+software fastai. pytorch: not designed for beginner&amp;rsquo;s friendliness.
+a layered api 1  literally overloaded methods free factoring and  jupyter  server: backbone of my code everytime i run something it updates the server&amp;rsquo;s state  questionnaires at the end  read first: do all of them before moving to the next chapter  first notebook  error rate of 0.</description>
+    </item>
+    
+    <item>
+      <title>Defining Decade</title>
+      <link>https://blog.banhtrang.me/en/defining-decade/</link>
+      <pubDate>Wed, 18 Nov 2020 14:45:44 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/defining-decade/</guid>
+      <description>resilient people are usually very likeable. clients with the toughest family backgrounds know the least about how to get what they want in love.
+why people choose cohabitation women want better access to love. men want easier access to sex.
+experiences   high school and our twenties are the only time when we have the most self-defining memories
+  adolescence is the time of our first attempt to form life stores.</description>
+    </item>
+    
+    <item>
+      <title>Principles</title>
+      <link>https://blog.banhtrang.me/en/principles/</link>
+      <pubDate>Mon, 16 Nov 2020 16:40:27 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/principles/</guid>
+      <description>dont confuse goals with desires
+most problems are potential improvements list my problems.
+if i cant identify my problems thats because either i lack the skill or lack the will :)
+the problems are harsh reality, very painful to look at. so i cope my subconsciously put them out of sight to make them out of mind
+i defintely worry about appearing to not have problems than about not achieving my desired results.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Data Mining</title>
+      <link>https://blog.banhtrang.me/en/note/principles-of-data-mining/</link>
+      <pubDate>Tue, 11 Feb 2020 11:08:54 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/note/principles-of-data-mining/</guid>
+      <description>Chapter 1 Introduction is an interdisciplinary exercise, can be thought of as statistics, database, or machine learning problem.
+from observational datasets to find unsuspected relations and to summarize the data in novel ways
+deals with data that have already been collected for some purpose other than the data mining analysis. This is different from statistics, which data are often colleted by using efficient strategies to answer specific answers.
+Models and Patterns Include linear equations, rules, clusters, graphs, tree structures, and recurrent patterns in time series.</description>
+    </item>
+    
+    <item>
+      <title>Class War</title>
+      <link>https://blog.banhtrang.me/en/note/class-war/</link>
+      <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/note/class-war/</guid>
+      <description>Excerpts from American Affairs&#39; The Real Class War. Note that this post is literally me taking notes (more like copying verbatim) of what the author wrote and I have absolutely no rights to the material provided. Don&amp;rsquo;t @ me.
+ The working class has experienced economic stagnation and precarity, and even life expectancy in the US, as well as ower family stability and civic engagement. Social mobility has declined, while inequality has widened.</description>
+    </item>
+    
+    <item>
+      <title>What I feel</title>
+      <link>https://blog.banhtrang.me/en/post/cycle/</link>
+      <pubDate>Wed, 03 Jul 2019 16:30:41 -0400</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/post/cycle/</guid>
+      <description>It&amp;rsquo;s meta, but I feel like no matter I do, I won&amp;rsquo;t be able to feel like how I want to feel.
+Not that I have achieved a lot and feel empty afterwards. Full disclaimer, I have not achieved a single thing that I wanted to do this year. It&amp;rsquo;s sad and pathetic but it&amp;rsquo;s also enlightening, I guess.
+It&amp;rsquo;s enlightening in a way that most people I&amp;rsquo;ve met feel this way.</description>
+    </item>
+    
+    <item>
+      <title>on Lee Kuan Yew</title>
+      <link>https://blog.banhtrang.me/en/post/funny-thing/</link>
+      <pubDate>Thu, 13 Jun 2019 11:45:54 -0400</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/post/funny-thing/</guid>
+      <description>I found myself thinking about what Lee Kuan Yew had to say about many things a lot recently. While I know close to nothing about him, I can imagine that most of his thoughts and actions stemmed from a systemic and practical approach.
+I remember reading him stating that while he takes a certain liking to some ideas, he is only interested in what works in real life. This Machiavellian approach to problems reminds me of one of Charlie Munger&amp;rsquo;s lessons in life: avoid extremely intense ideology.</description>
+    </item>
+    
+    <item>
+      <title>Ah Here We Go Again</title>
+      <link>https://blog.banhtrang.me/en/post/ah-here-we-go-again/</link>
+      <pubDate>Wed, 12 Jun 2019 18:22:52 -0400</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/post/ah-here-we-go-again/</guid>
+      <description>Hello world. Hi, I&amp;rsquo;m going to try to blog again. From my experience from past attempts, I can&amp;rsquo;t keep up with writing essays if I only treat it as a &amp;lsquo;feels good&amp;rsquo; activity when I procrastinate. Now that I know better, I will actually put self-imposed deadlines to churn out content for this blog.
+Who knows what to make of this decision. I&amp;rsquo;m in part hopeful that I will try to do my research and write interesting articles.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.banhtrang.me/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.banhtrang.me/en/dl/l3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/dl/l3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.banhtrang.me/en/post/overconfidence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/post/overconfidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.banhtrang.me/en/problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/problems/</guid>
+      <description>all my problems be precise in specifying my problem very poor work habits (react randomly to the stuff that comes at me, cant bring my self to do the statuff that i need to do but dont like to do)
+i don&amp;rsquo;t pay any attention to my belongings
+i dont pay enough attention at school
+my place is really messy
+there are days where I don&amp;rsquo;t and can&amp;rsquo;t do anything</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://blog.banhtrang.me/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>
