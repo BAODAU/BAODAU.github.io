@@ -5,7 +5,16 @@
     <link>https://blog.banhtrang.me/categories/</link>
     <description>Recent content in Categories on baoqdau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 18 Nov 2020 14:45:44 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2020 10:13:27 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>book</title>
+      <link>https://blog.banhtrang.me/categories/book/</link>
+      <pubDate>Mon, 23 Nov 2020 10:13:27 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/categories/book/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>books</title>
       <link>https://blog.banhtrang.me/categories/books/</link>
@@ -25,6 +34,15 @@
     </item>
     
     <item>
+      <title>summary</title>
+      <link>https://blog.banhtrang.me/categories/summary/</link>
+      <pubDate>Tue, 11 Feb 2020 11:08:54 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/categories/summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>readings</title>
       <link>https://blog.banhtrang.me/categories/readings/</link>
       <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
@@ -36,7 +54,7 @@
     <item>
       <title>personal</title>
       <link>https://blog.banhtrang.me/categories/personal/</link>
-      <pubDate>Wed, 03 Jul 2019 16:30:41 -0400</pubDate>
+      <pubDate>Sun, 04 Aug 2019 17:46:34 -0400</pubDate>
       
       <guid>https://blog.banhtrang.me/categories/personal/</guid>
       <description></description>

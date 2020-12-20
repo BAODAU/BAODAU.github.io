@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vis on baoqdau</title>
+    <link>https://blog.banhtrang.me/vi/vi/</link>
+    <description>Recent content in Vis on baoqdau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Dec 2020 04:49:09 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/vi/vi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi</title>
+      <link>https://blog.banhtrang.me/vi/vi/hi/</link>
+      <pubDate>Sun, 20 Dec 2020 04:49:09 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/vi/vi/hi/</guid>
+      <description>xin chào</description>
+    </item>
+    
+  </channel>
+</rss>
