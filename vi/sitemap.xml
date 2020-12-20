@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://blog.banhtrang.me/vi/</loc>
-    <lastmod>2020-12-20T04:49:09-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,26 +13,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://blog.banhtrang.me/vi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/vi/vi/hi/</loc>
-    <lastmod>2020-12-20T04:49:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/vi/vi/</loc>
-    <lastmod>2020-12-20T04:49:09-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.banhtrang.me/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.banhtrang.me/vi/vi/"
                 />
   </url>
   
