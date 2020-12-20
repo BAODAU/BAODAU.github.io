@@ -110,6 +110,16 @@ i defintely worry about appearing to not have problems than about not achieving 
     </item>
     
     <item>
+      <title>Data Mining Algorithm</title>
+      <link>https://blog.banhtrang.me/vi/data-mining-algorithm/</link>
+      <pubDate>Tue, 18 Feb 2020 13:05:45 -0500</pubDate>
+      
+      <guid>https://blog.banhtrang.me/vi/data-mining-algorithm/</guid>
+      <description>The score functionused to measure the quality of different tree structures is a general miscalassification loss function, defined as $\sum_{i=1}^nC(y(i),\hat{y}(i))$
+ $C(y(i),\hat{y}(i))$ is the loss incurred when the class label for the ith data vector, y(i) is predicted by the tree to be $\hat{y}(i)\ne y(i)$  cross-validation  partitions the training data into a subset for building the tree then estimates the misclassifcation rate on the remaining validation subset. this partitioning is repeated multiple times on different subsets and the misclassfication rates are then averaged to yield a cross-validation estimate of how well a tree of a particular size will perform on new, unseen data.</description>
+    </item>
+    
+    <item>
       <title>Class War</title>
       <link>https://blog.banhtrang.me/en/note/class-war/</link>
       <pubDate>Tue, 26 Nov 2019 13:26:22 -0500</pubDate>
@@ -152,15 +162,6 @@ Who knows what to make of this decision. I&amp;rsquo;m in part hopeful that I wi
     
     <item>
       <title></title>
-      <link>https://blog.banhtrang.me/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.banhtrang.me/archive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://blog.banhtrang.me/en/dl/l3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -188,6 +189,15 @@ i don&amp;rsquo;t pay any attention to my belongings
 i dont pay enough attention at school
 my place is really messy
 there are days where I don&amp;rsquo;t and can&amp;rsquo;t do anything</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://blog.banhtrang.me/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.banhtrang.me/archives/</guid>
+      <description>archives</description>
     </item>
     
     <item>

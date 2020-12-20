@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.banhtrang.me/author/</loc>
-    <lastmod>2020-12-19T16:52:44-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.banhtrang.me/vi/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.banhtrang.me/author/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/</loc>
-    <lastmod>2020-12-19T16:52:44-05:00</lastmod>
+    <lastmod>2020-12-05T15:00:24-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -33,103 +18,53 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/poem/</loc>
-    <lastmod>2020-12-19T16:52:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/poem/rilke/</loc>
-    <lastmod>2020-12-19T16:52:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/learn/</loc>
+    <loc>https://blog.banhtrang.me/en/</loc>
     <lastmod>2020-12-05T15:00:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/learn/organized-mind/</loc>
+    <loc>https://blog.banhtrang.me/en/learn/organized-mind/</loc>
     <lastmod>2020-12-05T15:00:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/author/bao-dau/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/lifestyle/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/lifestyle/tidy/</loc>
-    <lastmod>2020-11-23T23:18:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/author/bao/</loc>
+    <loc>https://blog.banhtrang.me/en/lifestyle/lift/</loc>
     <lastmod>2020-11-22T23:54:22-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/lifestyle/lift/</loc>
-    <lastmod>2020-11-22T23:54:22-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/lifestyle/goalpost/</loc>
+    <loc>https://blog.banhtrang.me/en/lifestyle/goalpost/</loc>
     <lastmod>2020-11-22T16:31:20-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/daily/nov21/</loc>
+    <loc>https://blog.banhtrang.me/en/daily/nov21/</loc>
     <lastmod>2020-11-21T15:21:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/daily/</loc>
-    <lastmod>2020-11-21T15:21:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/muscle/</loc>
+    <loc>https://blog.banhtrang.me/en/muscle/</loc>
     <lastmod>2020-11-21T13:08:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/dl/</loc>
+    <loc>https://blog.banhtrang.me/en/dl/l2/</loc>
     <lastmod>2020-11-19T14:20:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/dl/l2/</loc>
-    <lastmod>2020-11-19T14:20:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/dl/l1/</loc>
+    <loc>https://blog.banhtrang.me/en/dl/l1/</loc>
     <lastmod>2020-11-18T19:16:19-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/defining-decade/</loc>
+    <loc>https://blog.banhtrang.me/categories/books/</loc>
     <lastmod>2020-11-18T14:45:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/principles/</loc>
-    <lastmod>2020-11-16T16:40:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/categories/books/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/categories/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+    <lastmod>2020-11-18T14:45:44-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -143,27 +78,32 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/note/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/en/defining-decade/</loc>
+    <lastmod>2020-11-18T14:45:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/note/principles-of-data-mining/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/categories/self-help/</loc>
+    <lastmod>2020-11-18T14:45:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/categories/summary/</loc>
-    <lastmod>2020-02-11T11:08:54-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/en/principles/</loc>
+    <lastmod>2020-11-16T16:40:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/note/class-war/</loc>
-    <lastmod>2019-11-26T13:26:22-05:00</lastmod>
+    <loc>https://blog.banhtrang.me/vi/data-mining-algorithm/</loc>
+    <lastmod>2020-02-18T13:05:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/author/julius-krein/</loc>
+    <loc>https://blog.banhtrang.me/vi/</loc>
+    <lastmod>2020-02-18T13:05:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/en/note/class-war/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
   
@@ -198,38 +138,38 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/post/</loc>
+    <loc>https://blog.banhtrang.me/en/post/cycle/</loc>
     <lastmod>2019-07-03T16:30:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/post/cycle/</loc>
-    <lastmod>2019-07-03T16:30:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/post/funny-thing/</loc>
+    <loc>https://blog.banhtrang.me/en/post/funny-thing/</loc>
     <lastmod>2019-06-13T11:45:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/post/ah-here-we-go-again/</loc>
+    <loc>https://blog.banhtrang.me/en/post/ah-here-we-go-again/</loc>
     <lastmod>2019-06-12T18:22:52-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/dl/l3/</loc>
-    <priority>0</priority>
+    <loc>https://blog.banhtrang.me/en/dl/l3/</loc>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/post/overconfidence/</loc>
-    <priority>0</priority>
+    <loc>https://blog.banhtrang.me/en/post/overconfidence/</loc>
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/problems/</loc>
-    <priority>0</priority>
+    <loc>https://blog.banhtrang.me/en/problems/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/search/</loc>
   </url>
   
 </urlset>
