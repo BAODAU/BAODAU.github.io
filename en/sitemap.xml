@@ -103,26 +103,6 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/vi/data-mining-algorithm/</loc>
-    <lastmod>2020-02-18T13:05:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/vi/</loc>
-    <lastmod>2020-02-18T13:05:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://blog.banhtrang.me/vi/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.banhtrang.me/vi/"
-                />
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/tags/article/</loc>
     <lastmod>2019-11-26T13:26:22-05:00</lastmod>
   </url>
