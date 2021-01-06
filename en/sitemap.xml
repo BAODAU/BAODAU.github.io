@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.banhtrang.me/</loc>
-    <lastmod>2020-12-24T15:25:22-05:00</lastmod>
+    <lastmod>2021-01-02T07:40:51+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -15,6 +15,21 @@
                 hreflang="en"
                 href="https://blog.banhtrang.me/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/en/</loc>
+    <lastmod>2021-01-02T07:40:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/en/learn/good/</loc>
+    <lastmod>2021-01-02T07:40:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.banhtrang.me/en/learn/laws-of-human-nature/</loc>
+    <lastmod>2020-12-30T03:20:31+07:00</lastmod>
   </url>
   
   <url>
@@ -40,11 +55,6 @@
                 hreflang="en"
                 href="https://blog.banhtrang.me/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/en/</loc>
-    <lastmod>2020-12-24T15:25:22-05:00</lastmod>
   </url>
   
   <url>
@@ -78,23 +88,8 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/en/lifestyle/lift/</loc>
-    <lastmod>2020-11-22T23:54:22-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/en/muscle/</loc>
     <lastmod>2020-11-21T13:08:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/en/dl/l2/</loc>
-    <lastmod>2020-11-19T14:20:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.banhtrang.me/en/dl/l1/</loc>
-    <lastmod>2020-11-18T19:16:19-05:00</lastmod>
   </url>
   
   <url>
@@ -115,6 +110,16 @@
   <url>
     <loc>https://blog.banhtrang.me/vi/</loc>
     <lastmod>2020-02-18T13:05:45-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/vi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/vi/"
+                />
   </url>
   
   <url>
@@ -161,11 +166,17 @@
   </url>
   
   <url>
-    <loc>https://blog.banhtrang.me/en/problems/</loc>
-  </url>
-  
-  <url>
     <loc>https://blog.banhtrang.me/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://blog.banhtrang.me/vi/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.banhtrang.me/archives/"
+                />
   </url>
   
   <url>

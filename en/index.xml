@@ -5,7 +5,26 @@
     <link>https://blog.banhtrang.me/en/</link>
     <description>Recent content in Ens on baoqdau</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Dec 2020 15:25:22 -0500</lastBuildDate><atom:link href="https://blog.banhtrang.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 07:40:51 +0700</lastBuildDate><atom:link href="https://blog.banhtrang.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good</title>
+      <link>https://blog.banhtrang.me/en/learn/good/</link>
+      <pubDate>Sat, 02 Jan 2021 07:40:51 +0700</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/learn/good/</guid>
+      <description>Understand you Moods: You feel the Way you think Every bad feelings you have is the result of your distorted negative thinking. Intense negative thinking always accompanies a depressive episode, or any painful emotion for that matter.
+ Every time I become depressed, I feel as if I have been hit with a sudden cosmic jolt, and begin to see things differently. The change can come within less than an hour.</description>
+    </item>
+    
+    <item>
+      <title>Laws of Human Nature</title>
+      <link>https://blog.banhtrang.me/en/learn/laws-of-human-nature/</link>
+      <pubDate>Wed, 30 Dec 2020 03:20:31 +0700</pubDate>
+      
+      <guid>https://blog.banhtrang.me/en/learn/laws-of-human-nature/</guid>
+      <description>We have to deal with people who initially appear charming or confident, brimming with ideas and enthusiasm, and we fall under their spell. Only when it is too late that we discover that their confidence is irrational and their ideas ill-conceived. What inevitably happens in these situations is that we are caught off guard, not expecting such behavior. Often these types will hit us with elaborate cover stories to justify their actions, or blame handy scapegoat.</description>
+    </item>
+    
     <item>
       <title>Mastery</title>
       <link>https://blog.banhtrang.me/en/learn/mastery/</link>
@@ -40,17 +59,6 @@ Life is not fair  there are factors and events beyond your control that will imp
     </item>
     
     <item>
-      <title>Lift</title>
-      <link>https://blog.banhtrang.me/en/lifestyle/lift/</link>
-      <pubDate>Sun, 22 Nov 2020 23:54:22 -0500</pubDate>
-      
-      <guid>https://blog.banhtrang.me/en/lifestyle/lift/</guid>
-      <description>best 3 chest exercises: bench press incline dumbbell, remember to bring the dumbbells together
-cardio  jumping jacks burpees bicycles ins outs open close shoulder to shoulder high knees  shoulder  reverse peck deck: side lateral raises seated overhead press  10 reps min
-leg  smith machines: normal + chair squat + backward squat preacher shrimp dance step on one plate, weights on shoulder, squat down then stand up in the opposite direction smith machine calf raises, with plates 15 lunge while criss crossing kettlebells smith machine jumping lunge push smith machine with balls on your feet one legged squat jump over bench criss crossing on bench   </description>
-    </item>
-    
-    <item>
       <title>Muscle</title>
       <link>https://blog.banhtrang.me/en/muscle/</link>
       <pubDate>Sat, 21 Nov 2020 13:08:13 -0500</pubDate>
@@ -58,30 +66,6 @@ leg  smith machines: normal + chair squat + backward squat preacher shrimp dance
       <guid>https://blog.banhtrang.me/en/muscle/</guid>
       <description>i can build muscle in a calorie deficit
 build muscle:  water protein: 1g of protein per pound of weight energy: 3500 cal/lb of fat training stimulus:  training tips  warm up with light cardio. should be sweating a little bit before starting.  train the hardest exercises first  squats compounds first then isolation  time your set  time under tension is more important:40 seconds for hypertrophy   work rest ratio  3:1 or 5:1.</description>
-    </item>
-    
-    <item>
-      <title>Lesson 2</title>
-      <link>https://blog.banhtrang.me/en/dl/l2/</link>
-      <pubDate>Thu, 19 Nov 2020 14:20:27 -0500</pubDate>
-      
-      <guid>https://blog.banhtrang.me/en/dl/l2/</guid>
-      <description>2 sets of books. fastbooks to learn. the other for experiment
-dog cat dataset  tags contain dog and cat breeds create category: classification regression: predict one or more numeric quantities?  different applications  diagnosing viruses  terminology  mostly in the book  valid_pct: take a portion of the training dataset and put it asidefor testing purpose
-  avoid overfitting
-  cnn_learner(,(resnet34: resnet architecture, 34 layers, good for image recognition), metrics=error_rate, epoch: what we call when we look at every single image once?</description>
-    </item>
-    
-    <item>
-      <title>Lesson 1</title>
-      <link>https://blog.banhtrang.me/en/dl/l1/</link>
-      <pubDate>Wed, 18 Nov 2020 19:16:19 -0500</pubDate>
-      
-      <guid>https://blog.banhtrang.me/en/dl/l1/</guid>
-      <description>didactic approach deep learning is a type of neural network.
-top down approach: see the big picture first. will get more technical at time goes by.
-software fastai. pytorch: not designed for beginner&amp;rsquo;s friendliness.
-a layered api 1  literally overloaded methods free factoring and  jupyter  server: backbone of my code everytime i run something it updates the server&amp;rsquo;s state  questionnaires at the end  read first: do all of them before moving to the next chapter  first notebook  error rate of 0.</description>
     </item>
     
     <item>
@@ -166,19 +150,6 @@ Who knows what to make of this decision. I&amp;rsquo;m in part hopeful that I wi
       
       <guid>https://blog.banhtrang.me/en/post/overconfidence/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.banhtrang.me/en/problems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.banhtrang.me/en/problems/</guid>
-      <description>all my problems be precise in specifying my problem very poor work habits (react randomly to the stuff that comes at me, cant bring my self to do the statuff that i need to do but dont like to do)
-i don&amp;rsquo;t pay any attention to my belongings
-i dont pay enough attention at school
-my place is really messy
-there are days where I don&amp;rsquo;t and can&amp;rsquo;t do anything</description>
     </item>
     
   </channel>
